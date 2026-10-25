@@ -39,7 +39,7 @@ Unlike wet chemical etching (which is purely chemical and isotropic, etching equ
 | **Wafer Damage Risk** | Moderate (high RF power increases sheath voltage and ion impact energy). | Low (can generate high-density plasma at low sheath bias voltage). |
 | **Cost & Mechanical Complexity** | **Low:** Requires 1 RF supply, 1 matching network, and a simple machined aluminum chamber. | **High:** Requires 2 synchronized RF supplies, 2 matching networks, and a fragile quartz/ceramic bell jar. |
 
-**Why I Chose CCP-RIE:** For a low-cost student fab fabricating micron-scale **MOSCAP** and **NMOS** devices, **CCP-RIE** is the practical choice. It eliminates the second RF generator, dual matching network, and ceramic dome required by ICP-RIE, cutting cost and complexity by over 50% while easily meeting our etch rate and anisotropy requirements.
+**Why I Chose CCP-RIE:** For a low-cost student fab fabricating micron-scale **MOSCAP** and **NMOS** devices, **CCP-RIE** is the practical choice. It eliminates the second RF generator, dual matching network, and ceramic dome required by ICP-RIE, cutting cost and complexity while easily meeting our etch rate and anisotropy requirements.
 
 ---
 
