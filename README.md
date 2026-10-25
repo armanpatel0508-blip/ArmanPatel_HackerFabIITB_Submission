@@ -191,4 +191,4 @@ Below is the baseline process recipe for etching the **Polysilicon Gate** in the
 ## 7. References
 1. **HackerFab IITB Documentation:** [docs.hackerfabiitb.org](https://docs.hackerfabiitb.org) (`sputter-v2`, `thermal-evaporator-v1`, `litho-v1`, `MOSCAP`, and `NMOS` workflows).
 2. **Global HackerFab Documentation (CMU):** [docs.hackerfab.org](https://docs.hackerfab.org) (Plasma Etcher Standard Operating Procedure & Low-Cost RF Supply).
-3. Plummer, J. D., Deal, M. D., & Griffin, P. B., *Silicon VLSI Technology: Fundamentals, Practice and Modeling*, Prentice Hall (Chapter 10: Dry Etching & Plasma Physics)
+
