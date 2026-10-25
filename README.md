@@ -2,7 +2,7 @@
 
 **Author:** Arman Patel 
 **Repository:** `ArmanPatel_HackerFabIITB_Submission`  
-**Video Walkthrough (< 10 mins):** [Insert YouTube / Loom Link Here]
+**Video Walkthrough:** [Insert YouTube / Loom Link Here]
 
 ---
 
